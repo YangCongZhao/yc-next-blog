@@ -29,5 +29,6 @@
     "typescript": "^5",
     "vercel": "^44.2.6",
     "wrangler": "^4.22.0"
-  }
+  },
+  "packageManager": "yarn@4.9.1"
 }
